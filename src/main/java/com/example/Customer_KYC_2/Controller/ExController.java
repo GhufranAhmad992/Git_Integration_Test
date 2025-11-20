@@ -10,7 +10,7 @@ public class ExController {
 	
 	@GetMapping("/message")
 	public String home() {
-		return "Welcome to Eclipse git Integration!.. How Are You?";
+		return "Welcome to Eclipse git Integration!.. How Are You?.. I am OK.";
 	}
 
 }
